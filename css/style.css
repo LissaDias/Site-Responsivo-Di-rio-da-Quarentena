@@ -1,0 +1,106 @@
+body{
+
+	background-color: black;
+}
+
+a{
+
+	color: #5b3310;
+	font-size: 22px;
+	font-weight: bold;
+
+
+}
+
+
+a:hover{
+
+	color: white;
+}
+
+.nav{
+
+	font-size: 16px;
+
+}
+
+
+.header{
+
+	background-color: #FDC23A;
+	margin-bottom: 20px;
+
+
+}
+
+
+.imagem-logo{
+
+	max-width: 250px;
+	margin: 10px;
+
+}
+
+.col-12{
+
+	padding: 0px;
+
+
+}
+
+.carrossel{
+
+	margin-bottom: 20px;
+}
+
+
+
+.card{
+
+	width: 18rem;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	border-radius: 0px;
+	background-color: transparent;
+	border: none;
+}
+
+h5{
+
+	color: yellow;
+	font-size: 20px;
+
+}
+
+p{
+	color: white;
+	font-size: 16px;
+}
+
+.botao{
+
+	color: yellow;
+	background-color: #5b3310;
+
+}
+
+.botao:hover{
+
+	background-color: yellow;
+	color: black;
+
+}
+
+
+
+.footer{
+
+	height: 70px;
+	background-color: #FDC23A;
+	color: #5b3310;
+	padding-top: 20px;
+	font-size: 17px;
+
+
+
+}
